@@ -1,13 +1,12 @@
 {
   "tasks": [
     {
-      'text': 'learn-react',
-    'id': 1
-    }
-      {
-      'text': 'learn-rudux',
-    'id': 2
+      "text": "learn-react",
+      "id": 1
+    },
+    {
+      "text": "learn-rudux",
+      "id": 2
     }
   ]
-  }
-
+}
